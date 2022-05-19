@@ -74,11 +74,11 @@ you should get the classifier checkpoint from
 Link: https://github.com/point0bar1/ebm-defense
 
 For the other methods you should take the checkpoints from their repo
-adp           Link: https://github.com/jmyoon1/adp
-at            Link: https://github.com/MadryLab/robustness
-per           Link: https://github.com/cassidylaidlaw/perceptual-advex
-uncovering    Link: https://github.com/deepmind/deepmind-research/tree/master/adversarial_robustness
-trades        Link: https://github.com/yaodongyu/TRADES
+adp           Link: https://github.com/jmyoon1/adp  
+at            Link: https://github.com/MadryLab/robustness  
+per           Link: https://github.com/cassidylaidlaw/perceptual-advex  
+uncovering    Link: https://github.com/deepmind/deepmind-research/tree/master/adversarial_robustness  
+trades        Link: https://github.com/yaodongyu/TRADES  
 
 ## Acknowledgement
 
