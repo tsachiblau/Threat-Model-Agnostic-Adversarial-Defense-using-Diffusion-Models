@@ -7,7 +7,7 @@ Diffusion Models](http://).
 
 ### Dependencies
 
-Run the following conda line to install all necessary python packages for our code and set up the snips environment.
+Run the following conda line to install all necessary python packages for our code and set up the ad environment.
 
 ```bash
 conda env create -f environment.yml
