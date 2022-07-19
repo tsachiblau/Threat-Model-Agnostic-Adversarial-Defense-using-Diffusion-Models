@@ -1,7 +1,7 @@
 # Threat-Model-Agnostic-Adversarial-Defense-using-Diffusion-Models
 
 This repo contains the official implementation for the paper [Threat Model-Agnostic Adversarial Defense using
-Diffusion Models](http://). 
+Diffusion Models](https://arxiv.org/abs/2207.08089). 
 
 ## Running Experiments
 
